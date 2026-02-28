@@ -9,6 +9,7 @@ pandas = "==3.0.0"
 matplotlib = "*"
 pylint = "*"
 black = "*"
+pandas-stubs = "~=3.0.0"
 
 [dev-packages]
 
